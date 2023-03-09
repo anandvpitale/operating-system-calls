@@ -1,0 +1,10 @@
+#!/bin/bash
+for file in fast.c run.c
+do
+   if [[ "$file" == "fast.c" ]]
+   then 
+ gcc $file -o ${file%.*} -O2
+   else
+    gcc $file -o ${file%.*}
+   fi
+done

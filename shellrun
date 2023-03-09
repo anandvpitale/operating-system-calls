@@ -1,0 +1,12 @@
+./run text.txt -r 400 400000
+./run text.txt -r 800 400000
+./run text.txt -r 1200 400000
+./run text.txt -r 1600 400000
+./run text.txt -r 2000 400000
+./run text.txt -r 2400 400000
+./run text.txt -r 2800 400000
+./run text.txt -r 3200 400000
+./run text.txt -r 3600 400000
+./run text.txt -r 4000 400000
+./run text.txt -r 4400 400000
+./run text.txt -r 4800 400000
